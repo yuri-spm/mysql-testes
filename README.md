@@ -4,7 +4,7 @@ Aulas voltadas para mysql
 
 ## 🚀 Processos realizados
 
-* Criado o banco brocery_strore
+* Criado o banco grocery_store
 
 
 
@@ -54,4 +54,4 @@ ALTER TABLE product MODIFY amount  float(10,7);
 ## 🎁 Expressões de gratidão
 
 
-
+Thiago Instrutor https://github.com/tsdeveloper
